@@ -1,0 +1,24 @@
+label{
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 300;
+    text-transform: uppercase;
+
+}
+
+legend{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+input,textarea,select{
+    display: block;
+    background-color: #e1e1e1;
+    width: 80%;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    border: none;
+
+}
